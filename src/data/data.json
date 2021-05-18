@@ -1,0 +1,169 @@
+{
+    "Header": {
+
+        "title": "VASSANA TOKEN",
+        "paragraph": "smart contact blockchain"
+
+    },
+    "About": {
+        "paragraph": "VSNT is designed to realize the realization of the ownership of digital currency assets more, starting with the Vassana Token investment system. Buy VSNT on the platform and place Stake Token on the platform. There will be cash prizes and an opportunity to participate in events with participating merchants that we will announce at a later date VSNT. It is designed for a greater awareness of the ownership of digital currency assets. Which applied blockchain technology",
+        "Why": [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Media": [{
+            "img": "img/media/1.png",
+            "text": "\"ff\"",
+            "name": "BangkokBizNews"
+        },
+        {
+            "img": "img/media/2.png",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Tribunnews"
+        },
+        {
+            "img": "img/media/3.png",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Bloomberg"
+        },
+        {
+            "img": "img/media/4.png",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Forbes"
+        },
+        {
+            "img": "img/media/5.png",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Chanel NewsAsia"
+        },
+        {
+            "img": "img/media/6.png",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "BLOCKCHAIN REVIEW"
+        },
+        {
+            "img": "img/media/7.png",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "BitcoinAddict THAILAND"
+        },
+        {
+            "img": "img/media/8.png",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "NEWS BTC"
+        },
+        {
+            "img": "img/media/9.png",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Investing.com"
+        },
+        {
+            "img": "img/media/10.png",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Bitcoin.com"
+        },
+        {
+            "img": "img/media/11.png",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "FINANCE MAGNATES"
+        },
+        {
+            "img": "img/media/12.png",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "SIAM BLOCKCHAIN"
+        },
+        {
+            "img": "img/media/13.png",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "BK"
+        }
+    ],
+    "Detail": [{
+        "img": "img/detail/1.png",
+        "text": "\"ff\"",
+        "name": "BangkokBizNews"
+    },
+    {
+        "img": "img/detail/2.png",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "Tribunnews"
+    }
+],
+"Listing": [{
+    "img": "img/listing/1.png",
+    "text": "\"ff\"",
+    "name": "BangkokBizNews"
+},
+{
+    "img": "img/listing/2.png",
+    "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+    "name": "Tribunnews"
+}
+],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "ZEKO SAFETY SOLUTION CO., LTD 12/621 Similan Building Moo 15, Soi Bangna-Trad 39, Bangna-Trad Road, Bangkaew, Bangphli, Samutprakarn 10540, Thailand ",
+        "phone": "02-136-4881",
+        "email": "info@vassanatoken.com",
+        "facebook": "https://www.facebook.com/groups/756599895252670/?ref=share&exp=e8c2",
+        "twitter": "https://twitter.com/Vemo64010343",
+        "youtube": "https://www.youtube.com/channel/UCHYCrWPRBqYhwRziKJmEAmA",
+        "linkedin": "https://www.linkedin.com/in/vemo-coin-488695212",
+        "discord":"https://discord.com/invite/jxmwXzwN",
+        "reddit":"https://www.reddit.com/user/vemocoin",
+        "github":"https://github.com/VemoCoin"
+    },
+    "Features": [{
+            "icon": "fa fa-compress",
+            "title": "เข้า centralize exchange",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "พัฒนาทีม",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-expand",
+            "title": "เข้า decentralize exchange",
+           "text": ""
+        },
+        {
+            "icon": "fa fa-exchange",
+            "title": "DeFi/NFT",
+           "text": ""
+        },
+        {
+            "icon": "fa fa-line-chart",
+            "title": "เอาโปรเจ็คไปใช้งานจริงตาม business",
+            "text": ""
+        }
+    ]
+}
